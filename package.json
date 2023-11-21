@@ -20,7 +20,7 @@
 	},
 	"dependencies": {
 		"nan": "^2.13.0",
-		"node-gyp": "^6.0.0"
+		"node-gyp": "^10.0.0"
 	},
 	"scripts": {
 		"install": "node-gyp rebuild"
